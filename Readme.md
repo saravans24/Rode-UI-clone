@@ -1,4 +1,4 @@
-# Paytm - HTML ![html-5](./assets/html-5.png) and Tailwind CSS <img src="./assets/tailwind-css-logo.png" width=25 height=25> 
+# Rode - HTML ![html-5](./assets/html-5.png) and Tailwind CSS <img src="./assets/tailwind-css-logo.png" width=25 height=25> 
 
 By Saravanan S
 
